@@ -113,6 +113,7 @@ nav li a:hover{
     background: none;
     border: 2px solid black;
     outline: none;
+    color: black;
 }  
 .choice input:hover{
     background: #00005c;
