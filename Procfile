@@ -1,1 +1,1 @@
-web: gunicorn Ppolls.wsgi
+web: gunicorn Ppolls.wsgi --log-file -
